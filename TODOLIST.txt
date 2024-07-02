@@ -1,0 +1,6 @@
+- Finalize work (at this moment application can only show timestamps of all last device reboots and
+    schedule popup repeating timer)
+- Separate monolith with layers (app, domain, data)
+- Add dependency injection framework
+- Separate UI logic to ViewModels
+- Cover code with tests
